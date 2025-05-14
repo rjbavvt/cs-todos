@@ -1,6 +1,6 @@
 const images = [
-  'images/Home.png',
-  'images/Us.png'
+  'Home.png',
+  'Us.png'
 ];
 
 function showImage(index) {
